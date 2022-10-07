@@ -93,7 +93,7 @@ article p{
 .images li img{
     max-width: 100%;
 }
-.join{
+section.join{
     background-color: #F4F4F4;
     text-align: center;
     padding: 60 px 20px;
