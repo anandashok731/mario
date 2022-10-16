@@ -26,7 +26,6 @@ header h1{
 }
 .banner img{
     max-width: 100%;
-    width: 100vw;
 }
 .banner .welcome{
     background-color: #FEB614;
@@ -47,7 +46,7 @@ nav{
     background-color: #F4F4F4;
     padding: 20px;
     position: sticky;
-    top: 104px;
+    top: 96px;
 }
 nav ul{
     white-space: nowrap;
